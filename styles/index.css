@@ -82,6 +82,7 @@ body {
 .due-date-input {
   font-size: 15px;
   padding: 6px;
+  color: rgb(0, 0, 0);
 }
 
 .add-todo-button {
